@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/StartMenu/menu.unity
+    guid: bfd10c8cd0bca3543a84a27ed738be07
+  - enabled: 1
+    path: Assets/Project/maingame/maingame.unity
+    guid: c75a3d5d7476ffd46b26e318dd0350e0
+  - enabled: 1
+    path: Assets/Project/game1/Game1.unity
+    guid: aae531c6f14260044bb4e01b0578cc2a
+  - enabled: 1
+    path: Assets/Project/game2/Game2.unity
+    guid: 6ba4538d85673bf41b8cedcac98d0c89
+  - enabled: 1
+    path: Assets/Project/game3/Game3.unity
+    guid: e4ddc2cfdc0fe76428e87e029e641f9a
+  - enabled: 0
+    path: Assets/Project/game3/levels/4/level4.unity
+    guid: 06660dece56c2ba4487e8c559ae7e907
+  - enabled: 0
+    path: Assets/Project/game3/levels/3/level3.unity
+    guid: 36095fcc638362e4cb70c6e6969d7fa1
+  - enabled: 0
+    path: Assets/Project/game3/levels/2/level2.unity
+    guid: 4fe0cfa6a1abf39479987ee32e063aa9
+  - enabled: 0
+    path: Assets/Project/game3/levels/1/level1.unity
+    guid: 6154a94d45a91914a9f7f0ebfb58aa99
+  - enabled: 1
+    path: Assets/Project/game3/levels/level 1/level1.unity
+    guid: 455c67a4ed583114e9ca08a1bd1cc11e
+  - enabled: 1
+    path: Assets/Project/game3/levels/level3/level3.unity
+    guid: 4ded9c03aad3e06499f921146a7e5fe5
+  - enabled: 1
+    path: Assets/Project/game3/levels/level2/level2.unity
+    guid: a4c39356408f76e4592c202ae73772c5
+  - enabled: 1
+    path: Assets/Project/game3/levels/level4/level4.unity
+    guid: c7ee201529d6f854f9637626ee7dc670
+  - enabled: 1
+    path: Assets/Project/game3/levels/level10/level10.unity
+    guid: d3e5a9174402a034a9407e882b44e452
+  - enabled: 1
+    path: Assets/Project/game3/levels/level6/level6.unity
+    guid: af7858b562a88eb43a7d27f5843248a4
+  - enabled: 1
+    path: Assets/Project/game3/levels/level7/level7.unity
+    guid: 8c2679f3eae8b17408a9b65d9bfb5f4c
+  - enabled: 1
+    path: Assets/Project/game3/levels/level8/level8.unity
+    guid: f4314c4565331ee45a6fdd0b9b909277
+  - enabled: 1
+    path: Assets/Project/game3/levels/level9/level9.unity
+    guid: e1f6191af745a0341b3095b93d60ed92
+  - enabled: 1
+    path: Assets/Project/game3/levels/level5/level5.unity
+    guid: aadd8f79ab7a13d48afb98a8f9c9ba84
+  m_configObjects: {}
